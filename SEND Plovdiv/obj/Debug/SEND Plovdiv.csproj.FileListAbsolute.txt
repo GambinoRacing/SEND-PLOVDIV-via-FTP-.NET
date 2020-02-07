@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\SEND Plovdiv\SEND Plovdiv\SEND Plovdiv\bin\Debug\SEND Plovdiv.exe.config
+C:\Users\admin\Desktop\SEND Plovdiv\SEND Plovdiv\SEND Plovdiv\bin\Debug\SEND Plovdiv.exe
+C:\Users\admin\Desktop\SEND Plovdiv\SEND Plovdiv\SEND Plovdiv\bin\Debug\SEND Plovdiv.pdb
+C:\Users\admin\Desktop\SEND Plovdiv\SEND Plovdiv\SEND Plovdiv\obj\Debug\SEND Plovdiv.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\SEND Plovdiv\SEND Plovdiv\SEND Plovdiv\obj\Debug\SEND Plovdiv.exe
+C:\Users\admin\Desktop\SEND Plovdiv\SEND Plovdiv\SEND Plovdiv\obj\Debug\SEND Plovdiv.pdb
+C:\Users\admin\Desktop\ALL PROJECTS\SEND Plovdiv\SEND Plovdiv\SEND Plovdiv\bin\Debug\SEND Plovdiv.exe.config
+C:\Users\admin\Desktop\ALL PROJECTS\SEND Plovdiv\SEND Plovdiv\SEND Plovdiv\bin\Debug\SEND Plovdiv.exe
+C:\Users\admin\Desktop\ALL PROJECTS\SEND Plovdiv\SEND Plovdiv\SEND Plovdiv\bin\Debug\SEND Plovdiv.pdb
+C:\Users\admin\Desktop\ALL PROJECTS\SEND Plovdiv\SEND Plovdiv\SEND Plovdiv\obj\Debug\SEND Plovdiv.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\ALL PROJECTS\SEND Plovdiv\SEND Plovdiv\SEND Plovdiv\obj\Debug\SEND Plovdiv.exe
+C:\Users\admin\Desktop\ALL PROJECTS\SEND Plovdiv\SEND Plovdiv\SEND Plovdiv\obj\Debug\SEND Plovdiv.pdb
