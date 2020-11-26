@@ -72,7 +72,7 @@ namespace SEND_Plovdiv
 
             //Second method
             String sourcefilepath = zipPath;
-            String ftpurl = "ftp://195.96.246.42/Plovdiv.zip";
+            String ftpurl = "ftp://192.168.0.1/Plovdiv.zip";
             String ftpusername = username; 
             String ftppassword = password;
 
